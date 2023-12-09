@@ -1,9 +1,9 @@
-import MediaCard from "@/components/molecules/mediaGurard"
+import MediaCard from "@/components/atoms/mediaCard"
 import { Alert, AlertTitle, Box, Drawer, Grid, List, ListItem, Typography } from "@mui/material"
 
 export default function Home() {
   return (
-    <Box sx={{ display: 'flex' }}>
+    <Box sx={{ display: 'flex', ml: 4, mr: 4 }}>
       <div>
         <Alert severity="info" sx={{ mt: 2, mb: 5 }}>
           <AlertTitle>Hello 👋</AlertTitle>
