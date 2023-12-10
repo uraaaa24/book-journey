@@ -14,6 +14,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.20",
+    "@supabase/supabase-js": "^2.39.0",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
@@ -34,6 +35,7 @@
     "eslint-config-next": "14.0.4",
     "eslint-plugin-storybook": "^0.6.15",
     "storybook": "^7.6.4",
+    "supabase": "^1.115.5",
     "typescript": "^5"
   }
 }
